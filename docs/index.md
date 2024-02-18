@@ -2,7 +2,11 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Why this notes?
+
+This is my notes used to easily fetch required data from my notes.
+As this is my notes, I am able to connect easily to the concepts which I have written here.
+
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
