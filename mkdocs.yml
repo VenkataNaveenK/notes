@@ -5,24 +5,24 @@ nav:
     - Pandas: 'pandas.md'
     - Numpy: 'numpy.md'
     - Pytest: 'pytest.md'
-    - Logging: 'python.md'
-    - Exception Handling: 'python.md'
-    - OS operations: 'python.md'
+    - Logging: 'logging.md'
+    - Exception Handling: 'exception_handling.md'
+    - OS operations: 'os_operations.md'
   - Frontend:
-    - Streamlit: 'python.md'
-    - Flask: 'python.md'
+    - Streamlit: 'streamlit.md'
+    - Flask: 'flask.md'
   - MLOps:
-    - Git: 'about.md'
-    - DVC: 'about.md'
-    - Docker: 'about.md'
-    - Kubernetes: 'about.md'
-    - Github actions: 'about.md'
-    - Azure: 'about.md'
-    - AWS: 'about.md'
-    - GCP: 'about.md'
+    - Git: 'git.md'
+    - DVC: 'dvc.md'
+    - Docker: 'docker.md'
+    - Kubernetes: 'kubernetes.md'
+    - Github actions: 'github_actions.md'
+    - Azure: 'azure.md'
+    - AWS: 'aws.md'
+    - GCP: 'gcp.md'
   - Linux:
-    - Basics: 'about.md'
-    - Editors: 'about.md'
+    - Basics: 'linux_basics.md'
+    - Editors: 'linux_editors.md'
 theme:
   name: material
   features:
@@ -41,8 +41,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: deep purple
-      accent: teal 
+      primary: teal
+      accent: deep purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
