@@ -1,28 +1,28 @@
 site_name: My Notes
 nav:
   - Python:
-    - Virtual Environment: 'virtualenv.md'
-    - Pandas: 'pandas.md'
-    - Numpy: 'numpy.md'
-    - Pytest: 'pytest.md'
-    - Logging: 'logging.md'
-    - Exception Handling: 'exception_handling.md'
-    - OS operations: 'os_operations.md'
+    - Virtual Environment: python/virtualenv.md
+    - Pandas: python/pandas.md
+    - Numpy: python/numpy.md
+    - Pytest: python/pytest.md
+    - Logging: python/logging.md
+    - Exception Handling: python/exception_handling.md
+    - OS operations: python/os_operations.md
   - Frontend:
-    - Streamlit: 'streamlit.md'
-    - Flask: 'flask.md'
+    - Streamlit: frontend/streamlit.md
+    - Flask: frontend/flask.md
   - MLOps:
-    - Git: 'git.md'
-    - DVC: 'dvc.md'
-    - Docker: 'docker.md'
-    - Kubernetes: 'kubernetes.md'
-    - Github actions: 'github_actions.md'
-    - Azure: 'azure.md'
-    - AWS: 'aws.md'
-    - GCP: 'gcp.md'
+    - Git: mlops/git.md
+    - DVC: mlops/dvc.md
+    - Docker: mlops/docker.md
+    - Kubernetes: mlops/kubernetes.md
+    - Github actions: mlops/github_actions.md
+    - Azure: mlops/azure.md
+    - AWS: mlops/aws.md
+    - GCP: mlops/gcp.md
   - Linux:
-    - Basics: 'linux_basics.md'
-    - Editors: 'linux_editors.md'
+    - Basics: linux/linux_basics.md
+    - Editors: linux/linux_editors.md
 theme:
   name: material
   features:
