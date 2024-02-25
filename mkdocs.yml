@@ -23,7 +23,7 @@ nav:
     - YAML: mlops/yaml.md
   - Linux:
     - Basics: linux/linux_basics.md
-    - Editors: linux/linux_editors.md
+    - Text Editors: linux/linux_editors.md
 theme:
   name: material
   features:
