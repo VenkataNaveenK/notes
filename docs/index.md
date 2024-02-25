@@ -2,6 +2,8 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
+Material for Mkdocs reference [link](https://squidfunk.github.io/mkdocs-material/reference/)
+
 ## Why this notes?
 
 This is my notes used to easily fetch required data from my notes.

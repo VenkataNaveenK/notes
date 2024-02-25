@@ -22,8 +22,12 @@ nav:
     - GCP: mlops/gcp.md
     - YAML: mlops/yaml.md
   - Linux:
-    - Basics: linux/linux_basics.md
-    - Text Editors: linux/linux_editors.md
+    - Basics: 
+      - Common used commands: linux/basics/common_used_commands.md
+      - Utility commands: linux/basics/utility_commands.md
+    - Text Editors: 
+      - vi/vim: linux/editors/vim_editor.md
+      - nano: linux/editors/nano_editor.md
 theme:
   name: material
   features:
